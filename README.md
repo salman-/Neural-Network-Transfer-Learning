@@ -41,6 +41,8 @@ The `log_dir` is the directory to save the logs file and the `update_freq` decla
 
 We generate a png picture of the model's structure using the following code:
 
-`from tensorflow.keras.utils import plot_model
-plot_model(model)
-`
+<pre>from tensorflow.keras.utils import plot_model
+plot_model(model)</pre>
+
+
+![Feature Extraction by Neural-Network](https://user-images.githubusercontent.com/4312244/152534622-559b70fe-fcdb-41bb-b294-7c98d2ca5881.png)
