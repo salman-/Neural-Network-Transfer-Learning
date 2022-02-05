@@ -12,7 +12,7 @@ from tensorflow.keras.utils import plot_model
 #------------------------------
 # Get data
 
-! wget https://storage.googleapis.com/ztm_tf_course/food_vision/10_food_classes_all_data.zip
+# ! wget https://storage.googleapis.com/ztm_tf_course/food_vision/10_food_classes_all_data.zip
 
 zip_ref = zipfile.ZipFile("10_food_classes_all_data.zip", "r")
 zip_ref.extractall()
