@@ -1,4 +1,4 @@
-# Welcome to the Neural-Network-Transfer-Learning wiki!
+# Welcome to the Neural-Network-Transfer-Learning!
 
 
 The transfer-learnign in Tensorflow can be done in different ways. For instance it could be:
